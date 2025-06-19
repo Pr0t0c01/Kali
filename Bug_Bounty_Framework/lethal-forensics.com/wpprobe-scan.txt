@@ -1,0 +1,9 @@
+URL,Plugin,Version,Severity,AuthType,CVEs,CVE Links,CVSS Score,CVSS Vector,Title
+https://lethal-forensics.com/,redirection,5.5.2,N/A,N/A,N/A,N/A,0.0,N/A,N/A
+https://lethal-forensics.com/,code-snippets,3.6.8,N/A,N/A,N/A,N/A,0.0,N/A,N/A
+https://lethal-forensics.com/,wordpress-seo,25.2,N/A,N/A,N/A,N/A,0.0,N/A,N/A
+https://lethal-forensics.com/,shariff,4.6.15,N/A,N/A,N/A,N/A,0.0,N/A,N/A
+https://lethal-forensics.com/,ithemes-sync,3.2.4,N/A,N/A,N/A,N/A,0.0,N/A,N/A
+https://lethal-forensics.com/,fluent-smtp,2.2.90,N/A,N/A,N/A,N/A,0.0,N/A,N/A
+https://lethal-forensics.com/,mbaierl-projects-cpt,unknown,N/A,N/A,N/A,N/A,0.0,N/A,N/A
+https://lethal-forensics.com/,real-media-library-lite,unknown,N/A,N/A,N/A,N/A,0.0,N/A,N/A

@@ -1,0 +1,6 @@
+http://rest.vulnweb.com [[32m200[0m]
+http://testasp.vulnweb.com [[32m200[0m]
+http://testhtml5.vulnweb.com [[32m200[0m]
+http://testaspnet.vulnweb.com [[32m200[0m]
+http://vulnweb.com [[32m200[0m]
+http://www.vulnweb.com [[32m200[0m]
